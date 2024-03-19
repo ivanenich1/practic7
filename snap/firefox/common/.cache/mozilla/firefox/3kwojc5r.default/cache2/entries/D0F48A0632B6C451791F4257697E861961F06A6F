@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Tue, 19 Mar 2024 10:37:21 GMT -->
+  <!-- Cached: Tue, 19 Mar 2024 10:41:25 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -248,6 +248,7 @@ window.__STARTUP_STATE__ = {
 			"feeds.discoverystreamfeed": true,
 			"isPrivateBrowsingEnabled": true,
 			"platform": "linux",
+			"region": "RU",
 			"fxa_endpoint": "https://accounts.firefox.com/",
 			"appUpdateChannel": "release",
 			"improvesearch.topSiteSearchShortcuts": true,
@@ -297,8 +298,8 @@ window.__STARTUP_STATE__ = {
 				"localeListConfig": "",
 				"regionSpocsConfig": "US,CA,DE,GB,FR,IT,ES",
 				"topSitesContileSovEnabled": true,
-				"spocsEndpoint": "https://spocs.mozilla.net/spocs",
 				"spocsClearEndpoint": "https://spocs.mozilla.net/user",
+				"spocsEndpoint": "https://spocs.mozilla.net/spocs",
 				"spocsEndpointAllowlist": "https://getpocket.cdn.mozilla.net/,https://firefox-api-proxy.cdn.mozilla.net/,https://spocs.getpocket.com/,https://spocs.mozilla.net/"
 			},
 			"logowordmark.alwaysVisible": true,
@@ -311,8 +312,7 @@ window.__STARTUP_STATE__ = {
 			"discoverystream.personalization.modelKeys": "nb_model_arts_and_entertainment, nb_model_autos_and_vehicles, nb_model_beauty_and_fitness, nb_model_blogging_resources_and_services, nb_model_books_and_literature, nb_model_business_and_industrial, nb_model_computers_and_electronics, nb_model_finance, nb_model_food_and_drink, nb_model_games, nb_model_health, nb_model_hobbies_and_leisure, nb_model_home_and_garden, nb_model_internet_and_telecom, nb_model_jobs_and_education, nb_model_law_and_government, nb_model_online_communities, nb_model_people_and_society, nb_model_pets_and_animals, nb_model_real_estate, nb_model_reference, nb_model_science, nb_model_shopping, nb_model_sports, nb_model_travel",
 			"discoverystream.spocs-endpoint": "https://spocs.mozilla.net/spocs",
 			"discoverystream.spocs-endpoint-query": "",
-			"newNewtabExperience.colors": "#0090ED,#FF4F5F,#2AC3A2,#FF7139,#A172FF,#FFA437,#FF2A8A",
-			"region": "RU"
+			"newNewtabExperience.colors": "#0090ED,#FF4F5F,#2AC3A2,#FF7139,#A172FF,#FFA437,#FF2A8A"
 		}
 	},
 	"Dialog": {
@@ -782,4 +782,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-öî×0­           eùjáF®åƒÿÿÿÿ       :about:home alt-data 1;44955,script version 20240214103141  "Ï
+ùâßÊlá           eùkÕF®æ,ÿÿÿÿ       :about:home alt-data 1;44955,script version 20240214103141  "Ï

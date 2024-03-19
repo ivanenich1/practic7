@@ -274,3 +274,27 @@ sudo apt-get purge php.*
 sudo apt install php7.4 php7.4-mysql libapache2-mod-php7.4 php7.4-cli php7.4-cgi php7.4-gd
 sudo apt install php8 php8-mysql php8-cli php8-cgi php8-gd
 sudo apt install php7.4 php7.4-mysql libapache2-mod-php7.4 php7.4-cli php7.4-cgi php7.4-gd
+git branch develop
+git checkout develop
+git add .
+git commit -m 'nothing'
+git push origin develop
+git branch tester
+git checkout tester
+git add .
+git commit -m 'nothing'
+git push origin tester
+git branch feature
+git checkout feature
+git add .
+git commit -m 'nothing'
+git push origin feature
+git checkout -b egor
+git add .
+git commit -m 'nothing'
+git push origin egor
+git checkout -b class
+git add .
+git commit -m 'nothinggg'
+git push origin class
+clear
