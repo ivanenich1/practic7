@@ -2,9 +2,9 @@
 <application-state>
   <context id="">
     <application id="org.gnome.Nautilus.desktop" score="18362" last-seen="1710762283"/>
-    <application id="firefox_firefox.desktop" score="796" last-seen="1710844745"/>
+    <application id="firefox_firefox.desktop" score="861" last-seen="1710845562"/>
     <application id="gnome-initial-setup.desktop" score="11" last-seen="1710755820"/>
-    <application id="org.gnome.Terminal.desktop" score="3829.75" last-seen="1710844749"/>
+    <application id="org.gnome.Terminal.desktop" score="3858.75" last-seen="1710845343"/>
     <application id="yelp.desktop" score="0" last-seen="1710241994"/>
     <application id="update-manager.desktop" score="0" last-seen="1710842733"/>
   </context>

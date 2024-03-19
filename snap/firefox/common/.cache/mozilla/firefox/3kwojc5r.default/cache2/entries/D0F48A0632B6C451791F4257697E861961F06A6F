@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Tue, 19 Mar 2024 10:41:25 GMT -->
+  <!-- Cached: Tue, 19 Mar 2024 10:51:24 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -35,9 +35,9 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 300,
+				"frecency": 500,
 				"guid": "OZnkA_yC1E_H",
-				"lastVisitDate": 1710844178132,
+				"lastVisitDate": 1710845426217,
 				"title": "Branches Â· ivanenich1/practic7",
 				"url": "https://github.com/ivanenich1/practic7/branches",
 				"type": "history",
@@ -132,9 +132,9 @@ window.__STARTUP_STATE__ = {
 		"links": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 300,
+				"frecency": 500,
 				"guid": "OZnkA_yC1E_H",
-				"lastVisitDate": 1710844178132,
+				"lastVisitDate": 1710845426217,
 				"title": "Branches Â· ivanenich1/practic7",
 				"url": "https://github.com/ivanenich1/practic7/branches",
 				"type": "history",
@@ -782,4 +782,5 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-ùâßÊlá           eùkÕF®æ,ÿÿÿÿ       :about:home alt-data 1;44955,script version 20240214103141  "Ï
+Û7½
+î           eùn,F®çÌÿÿÿÿ       :about:home alt-data 1;44955,script version 20240214103141  "Ï
