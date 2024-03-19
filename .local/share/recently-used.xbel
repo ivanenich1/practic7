@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ivanenich/%5BDocuments%5D/hello_world" added="2024-03-04T12:45:35.703576Z" modified="2024-03-04T12:45:35.703579Z" visited="2024-03-04T12:45:35.703576Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-03-04T12:45:35.703577Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ivanenich/%5BDocuments%5D/hello_world.txt" added="2024-03-04T12:52:41.887080Z" modified="2024-03-05T10:01:45.897112Z" visited="2024-03-04T12:52:41.887081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-03-05T10:01:45.897110Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ivanenich/%5BDocuments%5D/git_Ivanenko" added="2024-03-05T10:13:30.020699Z" modified="2024-03-05T10:13:30.020702Z" visited="2024-03-05T10:13:30.020700Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-05T10:13:30.020701Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ivanenich/%5BDocuments%5D/git_Ivanenko1" added="2024-03-05T11:03:22.934618Z" modified="2024-03-05T11:03:22.934622Z" visited="2024-03-05T11:03:22.934619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-05T11:03:22.934620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ivanenich/%5BDocuments%5D/git_Ivanenko1/practic7/README.md" added="2024-03-05T11:15:18.427422Z" modified="2024-03-11T09:59:00.874600Z" visited="2024-03-05T11:15:18.427423Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-03-11T09:59:00.874597Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ivanenich/%5BDocuments%5D/git_Ivanenko1/hello_world.txt" added="2024-03-11T09:59:45.250010Z" modified="2024-03-11T09:59:45.250014Z" visited="2024-03-11T09:59:45.250011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-03-11T09:59:45.250013Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

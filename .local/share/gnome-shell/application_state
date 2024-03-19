@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="18362" last-seen="1710762283"/>
+    <application id="firefox_firefox.desktop" score="714" last-seen="1710843263"/>
+    <application id="gnome-initial-setup.desktop" score="11" last-seen="1710755820"/>
+    <application id="org.gnome.Terminal.desktop" score="3714.75" last-seen="1710843264"/>
+    <application id="yelp.desktop" score="0" last-seen="1710241994"/>
+    <application id="update-manager.desktop" score="0" last-seen="1710842733"/>
+  </context>
+</application-state>
